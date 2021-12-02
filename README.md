@@ -15,17 +15,17 @@ hif_vegetation_dataset.h5/
 │   │   ├── current_lf  
 │   │   ├── voltage_hf  
 │   │   ├── voltage_lf  
-			...  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;			...  
 │   └── 112/  
 └── test/  
-      ├── 014/  
-      │   ├── current_hf  
-      │   ├── current_lf  
-      │   ├── hf_trigger  
-      │   ├── voltage_hf  
-      │   ├── voltage_lf  
-				...  
-      └── 999/  
+&nbsp;&nbsp;    ├── 014/  
+&nbsp;&nbsp;&nbsp;│   ├── current_hf  
+&nbsp;&nbsp;&nbsp;│   ├── current_lf  
+&nbsp;&nbsp;&nbsp;│   ├── hf_trigger  
+&nbsp;&nbsp;&nbsp;│   ├── voltage_hf  
+&nbsp;&nbsp;&nbsp;│   ├── voltage_lf  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;				...  
+&nbsp;&nbsp;      └── 999/  
 
 Attributes of cals: 'filename', 'cal_type'  
 Attributes of tests: 'filename', 'cal_type', 'max_current', 'report_validity'  
