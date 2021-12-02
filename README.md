@@ -27,7 +27,7 @@ hif_vegetation_dataset.h5/
 				...  
       └── 999/  
 
-Attributes of cals: 'filename', 'cal_type'
-Attributes of tests: 'filename', 'cal_type', 'max_current', 'report_validity'
-Attributes of directories 'test' and 'cals' contains a list of their respective numbers
+Attributes of cals: 'filename', 'cal_type'  
+Attributes of tests: 'filename', 'cal_type', 'max_current', 'report_validity'  
+Attributes of directories 'test' and 'cals' contains a list of their respective numbers  
  
